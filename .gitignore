@@ -1,0 +1,5 @@
+peacock.egg-info
+dist
+venv*
+*.pyc
+build
